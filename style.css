@@ -1,0 +1,30 @@
+nav a {
+    text-decoration: none;
+    color: #000;
+    padding-left: 15px;
+    opacity: 0.75;
+}
+nav {
+   
+}
+
+body {
+    font-family: arial, sans-serif;
+    height: 100%;
+}
+
+#logo {
+    padding-top: 109px;
+    text-align: center;
+   
+}
+#search-bar {
+    text-align: center;
+}
+#search-btns {
+    text-align: center;
+    padding-top: 18px;
+}
+button {
+    padding: 0px 16px;
+}
